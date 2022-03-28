@@ -1,0 +1,15 @@
+{
+        'Id': '1',
+        'MessageBody': 'world'
+    },
+    {
+        'Id': '2',
+        'MessageBody': 'boto3',
+        'MessageAttributes': {
+            'Author': {
+                'StringValue': 'Daniel',
+                'DataType': 'String'
+            }
+        }
+    }
+])
